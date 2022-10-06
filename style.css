@@ -1,0 +1,21 @@
+p
+{
+    border: 2px;
+    border-color: blue;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: deeppink;
+}
+
+h1
+{
+    color: red;
+    font-family: monospace;
+    border: 5px;
+    border-color: yellow, orange, orangered, red, darkred, black;
+}
+
+h2
+{
+    color: blueviolet;
+}
